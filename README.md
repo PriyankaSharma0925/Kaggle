@@ -1,2 +1,2 @@
 # Kaggle
-kaggle work is linked to this directory.
+Kaggle work is linked to this directory.

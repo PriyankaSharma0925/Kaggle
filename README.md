@@ -21,7 +21,7 @@ This repository is a curated collection of Jupyter Notebooks created for learnin
 | `k-means-clustering.ipynb` | K-Means clustering on a sample dataset. |
 | `bostonhousing-regression-part1.ipynb` | Regression analysis on Boston Housing dataset (Part 1). |
 | `boston-housing-part2.ipynb` | Continuation of Boston Housing dataset analysis (Part 2). |
-| `student_a8.zip` | A zipped project submission or dataset archive. |
+| `student_a8.zip` | A zipped project submission. |
 
 ---
 
